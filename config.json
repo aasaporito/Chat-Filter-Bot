@@ -1,0 +1,4 @@
+{
+	"BOT_TOKEN" : "YOUR TOKEN GOES HERE INSIDE THE QUOTES",
+	"FILTER_LIST" : ["darn", "shucks", "frak", "shite"]
+}
