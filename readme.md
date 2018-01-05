@@ -2,6 +2,7 @@
 ---
 The following is instructions to create the bot and run it on your computer.
 
+Working no matter the CaSe of the letters. ![alt text](https://i.gyazo.com/129730dce300d3cc29e15e54f199f4e2.gif "Working")
 ##Step One - Download NodeJS and Install
 > To run the bot the Node.js runtime is required, the download can be found at the official site, https://nodejs.org/en/. From here click the green LTS button to download. Once downloaded run the installer until it is installed. The page should look like this (that's my arrow pointing to the download).:
 ![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/node.jpg?raw=true "Node.js Download Page")
