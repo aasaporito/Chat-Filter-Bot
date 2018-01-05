@@ -13,6 +13,6 @@ client.on('ready', () => {
 
 
 client.on('message', message => {
-  if(config.FILTER_LIST.some(word => message.content.includes(word))){
+  if(config.FILTER_LIST.some(word => message.content.toLowerCase().includes(word))){
     message.delete()
   }})
