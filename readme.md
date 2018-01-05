@@ -1,5 +1,6 @@
 ###Fully customizable bot for filtering chat messages in discord.
 ---
+I tried formatting the guide... that crap is way harder than writing a bot like this.
 The following is instructions to create the bot and run it on your computer.
 
 Working no matter the CaSe of the letters. ![alt text](https://i.gyazo.com/129730dce300d3cc29e15e54f199f4e2.gif "Working")
