@@ -8,7 +8,7 @@ The following is instructions to create the bot and run it on your computer.
 
 
 ##Step Two - Downloading the Bot
-> To download simply click the green **'Clone or Download'** button followed by 'Download as Zip' Once downloaded extract all the files into a folder.:
+> For the following you need to be signed into discord on your browser. To download simply click the green **'Clone or Download'** button followed by 'Download as Zip' Once downloaded extract all the files into a folder.:
 ![alt text]( "Download Button for Bot")
 > Once extracted in any text editor open the file named **'config.json'**. Leave this open, you'll need it later.
 
