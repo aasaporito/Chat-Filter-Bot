@@ -13,11 +13,12 @@ The following is instructions to create the bot and run it on your computer.
 > Once extracted in any text editor open the file named **'config.json'**. Leave this open, you'll need it later.
 
 ##Step Three - Connecting the bot to discord##
-> First go to **https://discordapp.com/developers/docs/intro** then click **'My Apps'** on the left hand bar of the page. ![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/My%20Apps.png?raw=true "My Apps")
-
->Once on the My Apps page click on the square that says **New App** ![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/new.png?raw=true "New App"). Name your bot something familiar, you can always change it's nickname later. Add a profile picture if you'd like then press **Create App**.
-> Next Scroll Down to the bottom of the page and click **'Create Bot User'** followed by **'Yes do it'** Now there should be a Token and a link that says click to reveal. Click it and copy the mess of numbers and letters that is there.![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/find%20token.gif?raw=true "Scroll Down")
->Remember the **config.json** we opened earlier? Go back to it and paste the token inside the quotes that say **YOUR TOKEN GOES HERE INSIDE THE QUOTES**. Save the file. ![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/token.png?raw=true "Paste Here").
+> First go to **https://discordapp.com/developers/docs/intro** then click **'My Apps'** on the left hand bar of the page. ![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/My%20Apps.png?raw=true "My Apps")   
+Once on the My Apps page click on the square that says **New App** ![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/new.png?raw=true "New App"). Name your bot something familiar, you can always change it's nickname later. Add a profile picture if you'd like then press **Create App**.
+> Next Scroll Down to the bottom of the page and click **'Create Bot User'** followed by **'Yes do it'** Now there should be a Token and a link that says click to reveal. Click it and copy the mess of numbers and letters that is there.   
+![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/find%20token.gif?raw=true "Scroll Down")
+>Remember the **config.json** we opened earlier? Go back to it and paste the token inside the quotes that say **YOUR TOKEN GOES HERE INSIDE THE QUOTES**. Save the file.    
+![alt text](https://github.com/sapblatt11/Chat-Filter-Bot/blob/master/guide/token.png?raw=true "Paste Here").
 
 ##Step Four - Inviting to your server
 >This part can be tricky, on the page where you got your token scroll up to the top till you see **Client ID** copy the id. You are going to place that ID into this link https://discordapp.com/oauth2/authorize?client_id=CLIENTID&scope=bot where it says **CLIENTID**
